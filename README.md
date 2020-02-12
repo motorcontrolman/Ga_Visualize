@@ -1,2 +1,2 @@
-# Ga
+# Ga Visualize
 Genetic Algorithm
